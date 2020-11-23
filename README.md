@@ -10,11 +10,14 @@
 - ⚡ Fun fact: I love to draw and play guitar
 
 <details>
-  <summary>:zap: My Projects</summary>
+  <summary>My Projects</summary>
   * EMPLOYEE CMS[EMPLOYEE CMS](https://employeecmsdemo.herokuapp.com/)
   * ICALENDAR READER[ICALENDAR READER](https://vmicalc.herokuapp.com/)
   * FEED COMISSIONER[FEED COMISSIONER](https://feedcomissioner.herokuapp.com/)
   * [GitHub](http://github.com)
+  ## myLib docs
+    see documentation:
+    * <a href="https://feedcomissioner.herokuapp.com/">myLib/</a>
 
 </details>
 
