@@ -15,6 +15,8 @@
     <li><a href="https://employeecmsdemo.herokuapp.com/">EMPLOYEE CMS</a></li>
     <li><a href="https://vmicalc.herokuapp.com/">ICALENDAR READER</a></li>
     <li><a href="https://feedcomissioner.herokuapp.com/">FEED COMISSIONER</a></li>
+    <li><a href="https://crisscrosscrass.github.io/assets/Projects/ScreenRecorder/index.html">SCREEN RECORDING</a></li>
+    <li><a href="http://crisscrosscrass.epizy.com/">FEED DETECTIVE</a></li>
   </ul>
 
 </details>
@@ -22,10 +24,10 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xing.svg" />][xing]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -40,9 +42,6 @@
 [website]: https://crisscrosscrass.github.io/
 [twitter]: https://twitter.com/crisscrosscrass
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[xing]: https://www.xing.com/profile/Christopher_Eckardt/portfolio
 [linkedin]: https://www.linkedin.com/in/christopher-eckardt/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[stackoverflow]: https://stackoverflow.com/users/8268744/crisscrosscrass
