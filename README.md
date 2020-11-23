@@ -11,9 +11,9 @@
 
 <details>
   <summary>:zap: My Projects</summary>
-  [EMPLOYEE CMS][https://employeecmsdemo.herokuapp.com/]
-  [ICALENDAR READER][https://vmicalc.herokuapp.com/]
-  [FEED COMISSIONER][https://feedcomissioner.herokuapp.com/]
+  [EMPLOYEE CMS](https://employeecmsdemo.herokuapp.com/)
+  [ICALENDAR READER](https://vmicalc.herokuapp.com/)
+  [FEED COMISSIONER](https://feedcomissioner.herokuapp.com/)
 
 </details>
 
