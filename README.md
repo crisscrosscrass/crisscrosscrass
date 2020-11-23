@@ -11,13 +11,11 @@
 
 <details>
   <summary>My Projects</summary>
-  * EMPLOYEE CMS[EMPLOYEE CMS](https://employeecmsdemo.herokuapp.com/)
-  * ICALENDAR READER[ICALENDAR READER](https://vmicalc.herokuapp.com/)
-  * FEED COMISSIONER[FEED COMISSIONER](https://feedcomissioner.herokuapp.com/)
-  * [GitHub](http://github.com)
-  ## myLib docs
-    see documentation:
-    * <a href="https://feedcomissioner.herokuapp.com/">myLib/</a>
+  <ul>
+    <li><a href="https://employeecmsdemo.herokuapp.com/">EMPLOYEE CMS</a></li>
+    <li><a href="https://vmicalc.herokuapp.com/">ICALENDAR READER</a></li>
+    <li><a href="https://feedcomissioner.herokuapp.com/">FEED COMISSIONER</a></li>
+  </ul>
 
 </details>
 
