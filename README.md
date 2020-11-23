@@ -35,7 +35,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.crisscrosscrass.vercel.app/api?username=crisscrosscrass&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.crisscrosscrass.vercel.app/api?username=crisscrosscrass&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
   
 
