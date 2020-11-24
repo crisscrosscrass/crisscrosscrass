@@ -9,15 +9,14 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/crisscrosscrass/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.crisscrosscrass.vercel.app/api/top-langs/?username=crisscrosscrass&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/crisscrosscrass/github-readme-stats">
   <img align="center" src="https://github-readme-stats.crisscrosscrass.vercel.app/api?username=crisscrosscrass&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Crisscrosscrass's github stats" />
 </a>
-[![Top Langs](https://github-readme-stats.crisscrosscrass.vercel.app/api/top-langs/?username=crisscrosscrass)](https://github.com/crisscrosscrass/github-readme-stats)
 
 <details>
   <summary>My Projects</summary>
