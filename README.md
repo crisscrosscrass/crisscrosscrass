@@ -11,11 +11,11 @@
 
 <a href="https://github.com/crisscrosscrass/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.crisscrosscrass.vercel.app/api/top-langs/?username=crisscrosscrass&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.crisscrosscrass.vercel.app/api/top-langs/?username=crisscrosscrass&layout=compact&theme=radical" />
 </a>
 
 <a href="https://github.com/crisscrosscrass/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.crisscrosscrass.vercel.app/api?username=crisscrosscrass&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Crisscrosscrass's github stats" />
+  <img align="center" src="https://github-readme-stats.crisscrosscrass.vercel.app/api?username=crisscrosscrass&show_icons=true&include_all_commits=true&theme=radical" alt="Crisscrosscrass's github stats" />
 </a>
 
 <details>
@@ -39,16 +39,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="crisscrosscrass's GitHub Stats" src="https://github-readme-stats.crisscrosscrass.vercel.app/api?username=crisscrosscrass&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-
-  
-
-</details>
 
 [website]: https://crisscrosscrass.github.io/
 [twitter]: https://twitter.com/crisscrosscrass
