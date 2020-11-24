@@ -4,10 +4,20 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/crisscrosscrass?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=crisscrosscrass)
 
 ## A passionate Father and Self-Taught Developer!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently looking for a FullStack Developer Position
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.crisscrosscrass.vercel.app/api?username=crisscrosscrass&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Crisscrosscrass's github stats" />
+</a>
+[![Top Langs](https://github-readme-stats.crisscrosscrass.vercel.app/api/top-langs/?username=crisscrosscrass)](https://github.com/crisscrosscrass/github-readme-stats)
 
 <details>
   <summary>My Projects</summary>
@@ -35,7 +45,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.crisscrosscrass.vercel.app/api?username=crisscrosscrass&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img align="left" alt="crisscrosscrass's GitHub Stats" src="https://github-readme-stats.crisscrosscrass.vercel.app/api?username=crisscrosscrass&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
   
 
